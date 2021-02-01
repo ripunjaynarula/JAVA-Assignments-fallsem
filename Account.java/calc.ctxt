@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=calc
+comment1.params=a\ b
+comment1.target=float\ add(float,\ float)
+comment2.params=a\ b
+comment2.target=float\ sub(float,\ float)
+comment3.params=a\ b
+comment3.target=float\ mul(float,\ float)
+comment4.params=a\ b
+comment4.target=float\ div(float,\ float)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

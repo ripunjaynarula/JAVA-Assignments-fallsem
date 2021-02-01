@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Primes
+comment1.params=n
+comment1.target=boolean\ checkForPrime(int)
+numComments=2
